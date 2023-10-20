@@ -6,7 +6,7 @@
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
   <!-- Example:  -->
-  <maintainer email="ryuichiueda@gmail.com">Ryuichi Ueda</maintainer>
+  <maintainer email="tienquanev7@gmail.com">Lorion</maintainer>
 
 
   <!-- One license tag required, multiple allowed, one license per tag -->
@@ -18,7 +18,7 @@
   <!-- Url tags are optional, but mutiple are allowed, one per tag -->
   <!-- Optional attribute type can be: website, bugtracker, or repository -->
   <!-- Example: -->
-  <url type="website">https://github.com/ryuichiueda/raspimouse_book_info</url>
+  <url type="website">https://github.com/tienquanev7</url>
 
 
   <!-- Author tags are optional, mutiple are allowed, one per tag -->
